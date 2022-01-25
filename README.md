@@ -9,3 +9,4 @@ Click the image below to go the YouTube video for the livestream! 🧑‍💻
 ## Contributors
 | Name | GitHub username | Description |
 | ---- | --------------- | ----------- |
+  Jay Agrawal |  jayagr26 | A Simple Web app to demonstrate proper Authentication and Authorization using JWT Tokens.          
